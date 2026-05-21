@@ -27,6 +27,7 @@ The chatbot is designed for:
 - Professionals
 
 ---
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/3700d071-41c1-4060-9ecd-d010c3c53153" />
 
 # Features
 
